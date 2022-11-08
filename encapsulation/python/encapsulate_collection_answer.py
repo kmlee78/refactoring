@@ -15,7 +15,7 @@ class Queue:
         return self._hiddenlist
 
     def add_player(self, player):
-        self.hiddenlist.append(player)
+        self._hiddenlist.append(player)
 
 
 class Player:
