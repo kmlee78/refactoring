@@ -28,9 +28,13 @@ function example() {
 /*------------------------refactoring-------------------------*/
 
 
-function totalSalary() {
-    return people.reduce((total, p) => total + p.salary, 0);
-}
-function youngestAge() {
-    return Math.min(...people.map(p => p.age));
+function example() {
+    return { youngestAge(), totalSalary() };
+
+    function totalSalary() {
+        return people.reduce((total, p) => total + p.salary, 0);
+    }
+    function youngestAge() {
+        return Math.min(...people.map(p => p.age));
+    }
 }
