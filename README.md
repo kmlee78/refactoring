@@ -25,3 +25,13 @@
 - [Inline Class(클래스 인라인하기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/inline_class.js)
 - [Hide Delegate(위임 숨기기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/hide_delegate.js)
 - [Remove Middle Man(중개자 제거하기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/remove_middle_man.js)
+
+
+## Move Features
+- [Move Function(함수 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_function_1.js)
+  - [2](https://github.com/kmlee78/refactoring/blob/main/move_features/move_function_2.js)
+- [Move Field(필드 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_field.js)
+- [Move Statements into Function(문장을 함수로 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_statements_into_function.js)
+- [Move Statements to Callers(문장을 호출한 곳으로 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_statements_to_callers.js)
+- [Slide Statements(문장 슬라이드하기)](https://github.com/kmlee78/refactoring/blob/main/move_features/slide_statements.js)
+- [Split Loop(반목문 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/move_features/split_loop.js)
