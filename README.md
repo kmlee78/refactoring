@@ -35,3 +35,11 @@
 - [Move Statements to Callers(문장을 호출한 곳으로 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_statements_to_callers.js)
 - [Slide Statements(문장 슬라이드하기)](https://github.com/kmlee78/refactoring/blob/main/move_features/slide_statements.js)
 - [Split Loop(반목문 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/move_features/split_loop.js)
+
+
+## Data Organization
+- [Split Variable(변수 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/split_variable.js)
+- [Rename Field(필드 이름 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/rename_field.js)
+- [Replace Derived Variable with Query(파생 변수를 질의 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/replace_derived_variable_with_query.js)
+- [Change Reference to Value(참조를 값으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/change_reference_to_value.js)
+- [Change Value to Reference(값을 참조로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/change_value_to_reference.js)
