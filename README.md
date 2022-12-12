@@ -43,3 +43,12 @@
 - [Replace Derived Variable with Query(파생 변수를 질의 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/replace_derived_variable_with_query.js)
 - [Change Reference to Value(참조를 값으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/change_reference_to_value.js)
 - [Change Value to Reference(값을 참조로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/change_value_to_reference.js)
+
+## Simplify Conditional Logic
+- [Decompose Conditional(조건문 분해하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/decompose_conditional.js)
+- [Consolidate Conditional Expression(조건식 통합하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/consolidate_conditional_expression.js)
+- [Replace Nested Conditional with Guard Clauses(중첩 조건문을 보호 구문으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/replace_nested_conditional_with_guard_clauses.js)
+- [Replace Conditional with Polymorphism(조건부 로직을 다형성으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/replace_conditional_with_polymorphism.js)
+- [Introduce Special Case(특이 케이스 추가하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/introduce_special_case.js)
+- [Introduce Assertion(어서션 추가하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/introduce_assertion.js)
+- [Replace Control Flag with Break(제어 플래그를 탈출문으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/replace_control_flag_with_break.js)
