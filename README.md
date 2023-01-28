@@ -1,12 +1,13 @@
 # refactoring
 
 ## Basic Skills
+
 - [Extract Function(함수 추출하기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/extract_function.js)
 - [Inline Function(함수 인라인하기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/inline_function.js)
 - [Extract Variable(변수 추출하기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/extract_variable.js)
 - [Inline Variable(변수 인라인하기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/inline_variable.js)
 - [Change Function Declaration(함수 선언 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/change_function_declaration_1.js)
-  -  [2](https://github.com/kmlee78/refactoring/blob/main/basic_skills/change_functioin_declaration_2.js)
+  - [2](https://github.com/kmlee78/refactoring/blob/main/basic_skills/change_functioin_declaration_2.js)
 - [Encapsulate Variable(변수 캡슐화하기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/encapsulate_variable.js)
 - [Rename Variable(변수 이름 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/rename_variable.js)
 - [Introduce Parameter Object(매개변수 객체 만들기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/introduce_parameter_object.js)
@@ -15,8 +16,8 @@
 - [Split Phase(단계 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/basic_skills/split_phase.js)
   - [java](https://github.com/kmlee78/refactoring/blob/main/basic_skills/split_phase.java)
 
-
 ## Encapsulation
+
 - [Encapsulate Record(레코드 캡슐화하기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/encapsulate_record.js)
 - [Encapsulate Collection(컬렉션 캡슐화하기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/encapsulate_collection.js)
 - [Replace Primitive with Object(기본형을 객체로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/replace_primitive_with_object.js)
@@ -26,8 +27,8 @@
 - [Hide Delegate(위임 숨기기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/hide_delegate.js)
 - [Remove Middle Man(중개자 제거하기)](https://github.com/kmlee78/refactoring/blob/main/encapsulation/remove_middle_man.js)
 
-
 ## Move Features
+
 - [Move Function(함수 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_function_1.js)
   - [2](https://github.com/kmlee78/refactoring/blob/main/move_features/move_function_2.js)
 - [Move Field(필드 옮기기)](https://github.com/kmlee78/refactoring/blob/main/move_features/move_field.js)
@@ -36,8 +37,8 @@
 - [Slide Statements(문장 슬라이드하기)](https://github.com/kmlee78/refactoring/blob/main/move_features/slide_statements.js)
 - [Split Loop(반목문 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/move_features/split_loop.js)
 
-
 ## Data Organization
+
 - [Split Variable(변수 쪼개기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/split_variable.js)
 - [Rename Field(필드 이름 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/rename_field.js)
 - [Replace Derived Variable with Query(파생 변수를 질의 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/replace_derived_variable_with_query.js)
@@ -45,6 +46,7 @@
 - [Change Value to Reference(값을 참조로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/data_organization/change_value_to_reference.js)
 
 ## Simplify Conditional Logic
+
 - [Decompose Conditional(조건문 분해하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/decompose_conditional.js)
 - [Consolidate Conditional Expression(조건식 통합하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/consolidate_conditional_expression.js)
 - [Replace Nested Conditional with Guard Clauses(중첩 조건문을 보호 구문으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/replace_nested_conditional_with_guard_clauses.js)
@@ -52,3 +54,19 @@
 - [Introduce Special Case(특이 케이스 추가하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/introduce_special_case.js)
 - [Introduce Assertion(어서션 추가하기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/introduce_assertion.js)
 - [Replace Control Flag with Break(제어 플래그를 탈출문으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/simplify_conditional_logic/replace_control_flag_with_break.js)
+
+## API Refactoring
+
+- [Separate Query from Modifier(질의 함수와 변경 함수 분리하기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/separate_query_from_modifier.js)
+- [Parameterize Function(함수 매개변수화하기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/parameterize_function.js)
+- [Remove Flag Argument(플래그 인수 제거하기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/remove_flag_argument.js)
+- [Preserve Whole Object(객체 통째로 넘겨주기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/preserve_whole_object.js)
+- [Replace Parameter with Query(매개변수를 질의 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_parameter_with_query.js)
+- [Replace Query with Parameter(질의 함수를 매개변수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_query_with_parameter.js)
+- [Remove Setting Method(세터 제거하기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/remove_setting_method.js)
+- [Replace Constructor with Factory Function(생성자를 팩토리 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_constructor_with_factory_function.js)
+- [Replace Function with Command(함수를 명령으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_function_with_command.js)
+- [Replace Command with Function(명령을 함수로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_command_with_function.js)
+- [Return Modified Value(수정된 값 반환하기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/return_modified_value.js)
+- [Replace Error Code with Exception(오류 코드를 예외로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_error_code_with_exception.js)
+- [Replace Exception with Precheck(예외를 사전확인으로 바꾸기)](https://github.com/kmlee78/refactoring/blob/main/api_refactoring/replace_exception_with_precheck.java)
